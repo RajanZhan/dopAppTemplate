@@ -22,5 +22,6 @@ yarn-error.log*
 node_modules
 /browserSrc/node_modules
 yarn.lock
+/src/node_modules
 
 
